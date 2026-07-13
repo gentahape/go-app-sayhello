@@ -2,3 +2,5 @@ github.com/gentahape/go-mod-sayhello v1.0.1 h1:mpM4xSxcrjm6nuuf6q01f2LfopeWutaPh
 github.com/gentahape/go-mod-sayhello v1.0.1/go.mod h1:Hpo+46D2MniYLK2zDdMEuTU3Uuv0k9yIA/CXRlhICtk=
 github.com/gentahape/go-mod-sayhello v1.5.0 h1:MTs5PEPNj9cZeHfZtqMxhVqkSk1nzp01HwQnMi3HTns=
 github.com/gentahape/go-mod-sayhello v1.5.0/go.mod h1:Hpo+46D2MniYLK2zDdMEuTU3Uuv0k9yIA/CXRlhICtk=
+github.com/gentahape/go-mod-sayhello/v2 v2.0.0 h1:aM5Mqgbs9ZSfNhAw9jYFt1nA5nDEwZ5S/PZ072fCI+0=
+github.com/gentahape/go-mod-sayhello/v2 v2.0.0/go.mod h1:vKs7navcPvQLjCwDbue5HPRu8oJSe9cIPLeGro+I67I=
